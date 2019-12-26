@@ -60,7 +60,7 @@ class Home extends Component {
 
       this.setState({ x, y, z });
       swal(
-        "Result",
+        "Result!",
         `
 	  Road Name: ${districtName}_${roadType}_${roadNumber}\n
 	  of chainage: ${startingPoint}km to ${endingPoint}km\n
