@@ -1,0 +1,21 @@
+{
+  "name": "IRI CalC",
+  "short_name": "IRI CalC",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#7cd1f9",
+  "icons": [
+    {
+      "src": "/assets/aec_logo_256_256.jpg",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "/assets/aec_logo_512_512.jpg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
